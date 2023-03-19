@@ -10,3 +10,5 @@ set noerrorbells
 set visualbell
 set history=1200
 colorscheme slate
+set textwidth=100
+
